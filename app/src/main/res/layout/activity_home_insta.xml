@@ -338,6 +338,7 @@
 
 
                     <ImageView
+                        android:id="@+id/imageView"
                         android:layout_width="match_parent"
                         android:layout_height="300dp"
                         android:src="@drawable/post1"
@@ -850,6 +851,7 @@
                 android:padding="12dp"
                 android:src="@drawable/reel"/>
             <ImageView
+                android:id="@+id/selectImageButton"
             android:layout_width="70dp"
             android:layout_height="70dp"
             android:layout_weight="1"
